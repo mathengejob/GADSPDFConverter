@@ -1,7 +1,7 @@
 from pdf2docx import Converter
 
-pdf_file = 'venv/input/Linkedin Profile.pdf'
-docx_file = 'venv/output/Linkedin Profile.docx'
+pdf_file = 'input/item.pdf'
+docx_file = 'output/item.docx'
 
 
 def main():
