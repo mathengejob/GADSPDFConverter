@@ -1,7 +1,7 @@
 from pdf2docx import Converter
 
-pdf_file = 'input/_1.pdf'
-docx_file  = 'output/_1.docx'
+pdf_file = 'input/_2.pdf'
+docx_file  = 'output/_2.docx'
 
 
 def main():
